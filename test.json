@@ -1,0 +1,25 @@
+{
+  "name": "Test file",
+  "people": [
+    {
+      "name": "Ivan1",
+      "age": 1
+    },
+    {
+      "name": "Ivan2",
+      "age": 2
+    },
+    {
+      "name": "Ivan3",
+      "age": 3
+    },
+    {
+      "name": "Ivan4",
+      "age": 4
+    },
+    {
+      "name": "Ivan5",
+      "age": 5
+    }
+  ]
+}
